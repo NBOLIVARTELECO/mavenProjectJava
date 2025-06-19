@@ -11,6 +11,8 @@ public class Mavenproject1 { // Declaración de la clase principal
 
     public static void main(String[] args) { // Método principal, punto de entrada del programa
         System.out.println("Hello World!"); // Imprime "Hello World!" en la consola
+        System.out.println("segunda palabra!"); // Imprime "Hello World!" en la consola
+        
     }
 
     /**
